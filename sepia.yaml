@@ -1,0 +1,18 @@
+scheme: "Sepia"
+author: "claytin (https://github.com/claytin)"
+base00: "f4ecd8" # bg
+base01: "ece3cf" # .05
+base02: "dfd4c1" # .15
+base03: "cabfad" # .25
+base04: "715d4e" # .85
+base05: "5d483b" # fg
+base06: "5d483b"
+base07: "5d483b"
+base08: "d94141" # red
+base09: "0095dd" # blue
+base0a: "062a33" # indigo
+base0b: "478B26" # green
+base0c: "39847f" # cyan
+base0d: "c244ae" # violet
+base0e: "b67300" # gold
+base0f: "8c353f" # dark red
